@@ -16,7 +16,7 @@ public class Lecture_11_2D_Arrays_Java {
         //input
         //rows
         for (int i=0; i<row; i++){
-            //Colums
+            //Columns
             for (int j=0; j<cols; j++){
                 numbers[i][j] = scanner.nextInt();
             }
