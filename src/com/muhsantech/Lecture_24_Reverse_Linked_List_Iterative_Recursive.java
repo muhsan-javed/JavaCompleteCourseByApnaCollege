@@ -6,7 +6,6 @@ public class Lecture_24_Reverse_Linked_List_Iterative_Recursive {
     class Node{
         int data;
         Node next;
-
         Node(int data){
             this.data = data;
             this.next = null;
